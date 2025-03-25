@@ -10,5 +10,5 @@ KICKOFF is a **web app** to **split football teams/squads equally and fairly**. 
 
 ## 🛠 Tech Stack  
 🖥 **Frontend:** Flutter Web  
-🔙 **Backend:** Flask (or any other backend used)  
+🔙 **Backend:** Flask 
 ☁️ **Hosting:** Firebase  
